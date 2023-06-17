@@ -1,2 +1,2 @@
 # github.io
-Portfolio SIte
+This is Benjamin Hrach's portfolio site.
